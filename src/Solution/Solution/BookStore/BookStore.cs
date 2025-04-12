@@ -36,8 +36,8 @@ namespace Solution.BookStore
     {
         private List<Buku> _daftarBuku = new List<Buku>();
 
-        public List<Buku> DaftarBuku 
-        { 
+        public List<Buku> DaftarBuku
+        {
             get { return _daftarBuku; }
         }
 
